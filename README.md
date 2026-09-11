@@ -1,3 +1,3 @@
-#AI Model Lab
+AI Model Lab
 
 
